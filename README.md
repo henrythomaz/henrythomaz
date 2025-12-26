@@ -1,7 +1,6 @@
-# Tutorials
 
 <details>
-<summary><strong>Git & GitHub</strong></summary>
+# <summary><strong>Git & GitHub</strong></summary>
 
 - dasdasd
 - dadassdas
